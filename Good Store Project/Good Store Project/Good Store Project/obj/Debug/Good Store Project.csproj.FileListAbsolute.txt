@@ -1,0 +1,240 @@
+C:\Users\adala\source\repos\Good Store Project\Good Store Project\bin\Debug\Good Store Project.exe.config
+C:\Users\adala\source\repos\Good Store Project\Good Store Project\bin\Debug\Good Store Project.exe
+C:\Users\adala\source\repos\Good Store Project\Good Store Project\bin\Debug\Good Store Project.pdb
+C:\Users\adala\source\repos\Good Store Project\Good Store Project\obj\Debug\Good Store Project.csprojAssemblyReference.cache
+C:\Users\adala\source\repos\Good Store Project\Good Store Project\obj\Debug\Good_Store_Project.Properties.Resources.resources
+C:\Users\adala\source\repos\Good Store Project\Good Store Project\obj\Debug\Good Store Project.csproj.GenerateResource.cache
+C:\Users\adala\source\repos\Good Store Project\Good Store Project\obj\Debug\Good Store Project.csproj.CoreCompileInputs.cache
+C:\Users\adala\source\repos\Good Store Project\Good Store Project\obj\Debug\Good Store Project.exe
+C:\Users\adala\source\repos\Good Store Project\Good Store Project\obj\Debug\Good Store Project.pdb
+C:\Users\adala\source\repos\Good Store Project\Good Store Project\obj\Debug\Good_Store_Project.Login.resources
+C:\Users\adala\source\repos\Good Store Project\Good Store Project\obj\Debug\Good_Store_Project.Home.resources
+E:\Good Store Project\Good Store Project\Good Store Project\bin\Debug\Good Store Project.exe.config
+E:\Good Store Project\Good Store Project\Good Store Project\bin\Debug\Good Store Project.exe
+E:\Good Store Project\Good Store Project\Good Store Project\bin\Debug\Good Store Project.pdb
+E:\Good Store Project\Good Store Project\Good Store Project\obj\Debug\Good Store Project.csproj.AssemblyReference.cache
+E:\Good Store Project\Good Store Project\Good Store Project\obj\Debug\Good_Store_Project.Home.resources
+E:\Good Store Project\Good Store Project\Good Store Project\obj\Debug\Good_Store_Project.Login.resources
+E:\Good Store Project\Good Store Project\Good Store Project\obj\Debug\Good_Store_Project.Properties.Resources.resources
+E:\Good Store Project\Good Store Project\Good Store Project\obj\Debug\Good_Store_Project.User.resources
+E:\Good Store Project\Good Store Project\Good Store Project\obj\Debug\Good Store Project.csproj.GenerateResource.cache
+E:\Good Store Project\Good Store Project\Good Store Project\obj\Debug\Good Store Project.csproj.CoreCompileInputs.cache
+E:\Good Store Project\Good Store Project\Good Store Project\obj\Debug\Good Store Project.exe
+E:\Good Store Project\Good Store Project\Good Store Project\obj\Debug\Good Store Project.pdb
+E:\Good Store Project\Good Store Project\Good Store Project\obj\Debug\Good_Store_Project.UserDataBase.resources
+C:\Users\adala\Downloads\New folder (3)\Good Store Project V2\Good Store Project V2\Good Store Project\Good Store Project\Good Store Project\obj\Debug\Good_Store_Project.CustomerDatagridview.resources
+C:\Users\adala\Downloads\New folder (3)\Good Store Project V2\Good Store Project V2\Good Store Project\Good Store Project\Good Store Project\obj\Debug\Good_Store_Project.CustomerInformation.resources
+C:\Users\adala\Downloads\New folder (3)\Good Store Project V2\Good Store Project V2\Good Store Project\Good Store Project\Good Store Project\obj\Debug\Good_Store_Project.Home.resources
+C:\Users\adala\Downloads\New folder (3)\Good Store Project V2\Good Store Project V2\Good Store Project\Good Store Project\Good Store Project\obj\Debug\Good_Store_Project.Login.resources
+C:\Users\adala\Downloads\New folder (3)\Good Store Project V2\Good Store Project V2\Good Store Project\Good Store Project\Good Store Project\obj\Debug\Good_Store_Project.Properties.Resources.resources
+C:\Users\adala\Downloads\New folder (3)\Good Store Project V2\Good Store Project V2\Good Store Project\Good Store Project\Good Store Project\obj\Debug\Good_Store_Project.User.resources
+C:\Users\adala\Downloads\New folder (3)\Good Store Project V2\Good Store Project V2\Good Store Project\Good Store Project\Good Store Project\obj\Debug\Good_Store_Project.UserDataBase.resources
+C:\Users\adala\Downloads\New folder (3)\Good Store Project V2\Good Store Project V2\Good Store Project\Good Store Project\Good Store Project\obj\Debug\Good Store Project.csproj.GenerateResource.cache
+C:\Users\adala\Downloads\New folder (3)\Good Store Project V2\Good Store Project V2\Good Store Project\Good Store Project\Good Store Project\obj\Debug\Good Store Project.csproj.CoreCompileInputs.cache
+C:\Users\adala\Downloads\New folder (3)\Good Store Project V2\Good Store Project V2\Good Store Project\Good Store Project\Good Store Project\bin\Debug\Good Store Project.exe.config
+C:\Users\adala\Downloads\New folder (3)\Good Store Project V2\Good Store Project V2\Good Store Project\Good Store Project\Good Store Project\bin\Debug\Good Store Project.exe
+C:\Users\adala\Downloads\New folder (3)\Good Store Project V2\Good Store Project V2\Good Store Project\Good Store Project\Good Store Project\bin\Debug\Good Store Project.pdb
+C:\Users\adala\Downloads\New folder (3)\Good Store Project V2\Good Store Project V2\Good Store Project\Good Store Project\Good Store Project\obj\Debug\Good Store Project.exe
+C:\Users\adala\Downloads\New folder (3)\Good Store Project V2\Good Store Project V2\Good Store Project\Good Store Project\Good Store Project\obj\Debug\Good Store Project.pdb
+C:\Users\adala\Downloads\New folder (3)\Good Store Project V2\Good Store Project V2\Good Store Project\Good Store Project\Good Store Project\obj\Debug\Good_Store_Project.ItemForm.resources
+C:\Users\adala\Downloads\New folder (3)\Good Store Project V2\Good Store Project V2\Good Store Project\Good Store Project\Good Store Project\obj\Debug\Good_Store_Project.ItemDatabase.resources
+C:\Users\adala\Downloads\New folder (3)\Good Store Project V2\Good Store Project V2\Good Store Project\Good Store Project\Good Store Project\obj\Debug\Good Store Project.csprojAssemblyReference.cache
+C:\Users\adala\Downloads\New folder (3)\Good Store Project\Good Store Project V2\Good Store Project V2\Good Store Project\Good Store Project\Good Store Project\bin\Debug\Good Store Project.exe.config
+C:\Users\adala\Downloads\New folder (3)\Good Store Project\Good Store Project V2\Good Store Project V2\Good Store Project\Good Store Project\Good Store Project\bin\Debug\Good Store Project.exe
+C:\Users\adala\Downloads\New folder (3)\Good Store Project\Good Store Project V2\Good Store Project V2\Good Store Project\Good Store Project\Good Store Project\bin\Debug\Good Store Project.pdb
+C:\Users\adala\Downloads\New folder (3)\Good Store Project\Good Store Project V2\Good Store Project V2\Good Store Project\Good Store Project\Good Store Project\obj\Debug\Good Store Project.csprojAssemblyReference.cache
+C:\Users\adala\Downloads\New folder (3)\Good Store Project\Good Store Project V2\Good Store Project V2\Good Store Project\Good Store Project\Good Store Project\obj\Debug\Good_Store_Project.CustomerDatagridview.resources
+C:\Users\adala\Downloads\New folder (3)\Good Store Project\Good Store Project V2\Good Store Project V2\Good Store Project\Good Store Project\Good Store Project\obj\Debug\Good_Store_Project.CustomerInformation.resources
+C:\Users\adala\Downloads\New folder (3)\Good Store Project\Good Store Project V2\Good Store Project V2\Good Store Project\Good Store Project\Good Store Project\obj\Debug\Good_Store_Project.Home.resources
+C:\Users\adala\Downloads\New folder (3)\Good Store Project\Good Store Project V2\Good Store Project V2\Good Store Project\Good Store Project\Good Store Project\obj\Debug\Good_Store_Project.ItemDatabase.resources
+C:\Users\adala\Downloads\New folder (3)\Good Store Project\Good Store Project V2\Good Store Project V2\Good Store Project\Good Store Project\Good Store Project\obj\Debug\Good_Store_Project.ItemForm.resources
+C:\Users\adala\Downloads\New folder (3)\Good Store Project\Good Store Project V2\Good Store Project V2\Good Store Project\Good Store Project\Good Store Project\obj\Debug\Good_Store_Project.Login.resources
+C:\Users\adala\Downloads\New folder (3)\Good Store Project\Good Store Project V2\Good Store Project V2\Good Store Project\Good Store Project\Good Store Project\obj\Debug\Good_Store_Project.Properties.Resources.resources
+C:\Users\adala\Downloads\New folder (3)\Good Store Project\Good Store Project V2\Good Store Project V2\Good Store Project\Good Store Project\Good Store Project\obj\Debug\Good_Store_Project.User.resources
+C:\Users\adala\Downloads\New folder (3)\Good Store Project\Good Store Project V2\Good Store Project V2\Good Store Project\Good Store Project\Good Store Project\obj\Debug\Good_Store_Project.UserDataBase.resources
+C:\Users\adala\Downloads\New folder (3)\Good Store Project\Good Store Project V2\Good Store Project V2\Good Store Project\Good Store Project\Good Store Project\obj\Debug\Good Store Project.csproj.GenerateResource.cache
+C:\Users\adala\Downloads\New folder (3)\Good Store Project\Good Store Project V2\Good Store Project V2\Good Store Project\Good Store Project\Good Store Project\obj\Debug\Good Store Project.csproj.CoreCompileInputs.cache
+C:\Users\adala\Downloads\New folder (3)\Good Store Project\Good Store Project V2\Good Store Project V2\Good Store Project\Good Store Project\Good Store Project\obj\Debug\Good Store Project.exe
+C:\Users\adala\Downloads\New folder (3)\Good Store Project\Good Store Project V2\Good Store Project V2\Good Store Project\Good Store Project\Good Store Project\obj\Debug\Good Store Project.pdb
+C:\Users\adala\Downloads\New folder (3)\Good Store Project\User Design Good Store Project V2\Good Store Project V2\Good Store Project\Good Store Project\Good Store Project\bin\Debug\Good Store Project.exe.config
+C:\Users\adala\Downloads\New folder (3)\Good Store Project\User Design Good Store Project V2\Good Store Project V2\Good Store Project\Good Store Project\Good Store Project\bin\Debug\Good Store Project.exe
+C:\Users\adala\Downloads\New folder (3)\Good Store Project\User Design Good Store Project V2\Good Store Project V2\Good Store Project\Good Store Project\Good Store Project\bin\Debug\Good Store Project.pdb
+C:\Users\adala\Downloads\New folder (3)\Good Store Project\User Design Good Store Project V2\Good Store Project V2\Good Store Project\Good Store Project\Good Store Project\obj\Debug\Good Store Project.csprojAssemblyReference.cache
+C:\Users\adala\Downloads\New folder (3)\Good Store Project\User Design Good Store Project V2\Good Store Project V2\Good Store Project\Good Store Project\Good Store Project\obj\Debug\Good_Store_Project.CustomerDatagridview.resources
+C:\Users\adala\Downloads\New folder (3)\Good Store Project\User Design Good Store Project V2\Good Store Project V2\Good Store Project\Good Store Project\Good Store Project\obj\Debug\Good_Store_Project.CustomerInformation.resources
+C:\Users\adala\Downloads\New folder (3)\Good Store Project\User Design Good Store Project V2\Good Store Project V2\Good Store Project\Good Store Project\Good Store Project\obj\Debug\Good_Store_Project.Home.resources
+C:\Users\adala\Downloads\New folder (3)\Good Store Project\User Design Good Store Project V2\Good Store Project V2\Good Store Project\Good Store Project\Good Store Project\obj\Debug\Good_Store_Project.ItemDatabase.resources
+C:\Users\adala\Downloads\New folder (3)\Good Store Project\User Design Good Store Project V2\Good Store Project V2\Good Store Project\Good Store Project\Good Store Project\obj\Debug\Good_Store_Project.ItemForm.resources
+C:\Users\adala\Downloads\New folder (3)\Good Store Project\User Design Good Store Project V2\Good Store Project V2\Good Store Project\Good Store Project\Good Store Project\obj\Debug\Good_Store_Project.Login.resources
+C:\Users\adala\Downloads\New folder (3)\Good Store Project\User Design Good Store Project V2\Good Store Project V2\Good Store Project\Good Store Project\Good Store Project\obj\Debug\Good_Store_Project.Properties.Resources.resources
+C:\Users\adala\Downloads\New folder (3)\Good Store Project\User Design Good Store Project V2\Good Store Project V2\Good Store Project\Good Store Project\Good Store Project\obj\Debug\Good_Store_Project.User.resources
+C:\Users\adala\Downloads\New folder (3)\Good Store Project\User Design Good Store Project V2\Good Store Project V2\Good Store Project\Good Store Project\Good Store Project\obj\Debug\Good_Store_Project.UserDataBase.resources
+C:\Users\adala\Downloads\New folder (3)\Good Store Project\User Design Good Store Project V2\Good Store Project V2\Good Store Project\Good Store Project\Good Store Project\obj\Debug\Good Store Project.csproj.GenerateResource.cache
+C:\Users\adala\Downloads\New folder (3)\Good Store Project\User Design Good Store Project V2\Good Store Project V2\Good Store Project\Good Store Project\Good Store Project\obj\Debug\Good Store Project.csproj.CoreCompileInputs.cache
+C:\Users\adala\Downloads\New folder (3)\Good Store Project\User Design Good Store Project V2\Good Store Project V2\Good Store Project\Good Store Project\Good Store Project\obj\Debug\Good Store Project.exe
+C:\Users\adala\Downloads\New folder (3)\Good Store Project\User Design Good Store Project V2\Good Store Project V2\Good Store Project\Good Store Project\Good Store Project\obj\Debug\Good Store Project.pdb
+C:\Users\adala\Downloads\New folder (3)\Good Store Project\Custom Information Done except form wate line\Good Store Project V2\Good Store Project\Good Store Project\Good Store Project\bin\Debug\Good Store Project.exe.config
+C:\Users\adala\Downloads\New folder (3)\Good Store Project\Custom Information Done except form wate line\Good Store Project V2\Good Store Project\Good Store Project\Good Store Project\bin\Debug\Good Store Project.exe
+C:\Users\adala\Downloads\New folder (3)\Good Store Project\Custom Information Done except form wate line\Good Store Project V2\Good Store Project\Good Store Project\Good Store Project\bin\Debug\Good Store Project.pdb
+C:\Users\adala\Downloads\New folder (3)\Good Store Project\Custom Information Done except form wate line\Good Store Project V2\Good Store Project\Good Store Project\Good Store Project\obj\Debug\Good Store Project.csprojAssemblyReference.cache
+C:\Users\adala\Downloads\New folder (3)\Good Store Project\Custom Information Done except form wate line\Good Store Project V2\Good Store Project\Good Store Project\Good Store Project\obj\Debug\Good_Store_Project.CustomerDatagridview.resources
+C:\Users\adala\Downloads\New folder (3)\Good Store Project\Custom Information Done except form wate line\Good Store Project V2\Good Store Project\Good Store Project\Good Store Project\obj\Debug\Good_Store_Project.CustomerInformation.resources
+C:\Users\adala\Downloads\New folder (3)\Good Store Project\Custom Information Done except form wate line\Good Store Project V2\Good Store Project\Good Store Project\Good Store Project\obj\Debug\Good_Store_Project.Home.resources
+C:\Users\adala\Downloads\New folder (3)\Good Store Project\Custom Information Done except form wate line\Good Store Project V2\Good Store Project\Good Store Project\Good Store Project\obj\Debug\Good_Store_Project.ItemDatabase.resources
+C:\Users\adala\Downloads\New folder (3)\Good Store Project\Custom Information Done except form wate line\Good Store Project V2\Good Store Project\Good Store Project\Good Store Project\obj\Debug\Good_Store_Project.ItemForm.resources
+C:\Users\adala\Downloads\New folder (3)\Good Store Project\Custom Information Done except form wate line\Good Store Project V2\Good Store Project\Good Store Project\Good Store Project\obj\Debug\Good_Store_Project.Login.resources
+C:\Users\adala\Downloads\New folder (3)\Good Store Project\Custom Information Done except form wate line\Good Store Project V2\Good Store Project\Good Store Project\Good Store Project\obj\Debug\Good_Store_Project.Properties.Resources.resources
+C:\Users\adala\Downloads\New folder (3)\Good Store Project\Custom Information Done except form wate line\Good Store Project V2\Good Store Project\Good Store Project\Good Store Project\obj\Debug\Good_Store_Project.User.resources
+C:\Users\adala\Downloads\New folder (3)\Good Store Project\Custom Information Done except form wate line\Good Store Project V2\Good Store Project\Good Store Project\Good Store Project\obj\Debug\Good_Store_Project.UserDataBase.resources
+C:\Users\adala\Downloads\New folder (3)\Good Store Project\Custom Information Done except form wate line\Good Store Project V2\Good Store Project\Good Store Project\Good Store Project\obj\Debug\Good Store Project.csproj.GenerateResource.cache
+C:\Users\adala\Downloads\New folder (3)\Good Store Project\Custom Information Done except form wate line\Good Store Project V2\Good Store Project\Good Store Project\Good Store Project\obj\Debug\Good Store Project.csproj.CoreCompileInputs.cache
+C:\Users\adala\Downloads\New folder (3)\Good Store Project\Custom Information Done except form wate line\Good Store Project V2\Good Store Project\Good Store Project\Good Store Project\obj\Debug\Good Store Project.exe
+C:\Users\adala\Downloads\New folder (3)\Good Store Project\Custom Information Done except form wate line\Good Store Project V2\Good Store Project\Good Store Project\Good Store Project\obj\Debug\Good Store Project.pdb
+C:\Users\adala\Downloads\New folder (3)\Good Store Project\All design except itemform and new home with logo\Good Store Project V2\Good Store Project\Good Store Project\Good Store Project\bin\Debug\Good Store Project.exe.config
+C:\Users\adala\Downloads\New folder (3)\Good Store Project\All design except itemform and new home with logo\Good Store Project V2\Good Store Project\Good Store Project\Good Store Project\bin\Debug\Good Store Project.exe
+C:\Users\adala\Downloads\New folder (3)\Good Store Project\All design except itemform and new home with logo\Good Store Project V2\Good Store Project\Good Store Project\Good Store Project\bin\Debug\Good Store Project.pdb
+C:\Users\adala\Downloads\New folder (3)\Good Store Project\All design except itemform and new home with logo\Good Store Project V2\Good Store Project\Good Store Project\Good Store Project\obj\Debug\Good Store Project.csprojAssemblyReference.cache
+C:\Users\adala\Downloads\New folder (3)\Good Store Project\All design except itemform and new home with logo\Good Store Project V2\Good Store Project\Good Store Project\Good Store Project\obj\Debug\Good_Store_Project.CustomerDatagridview.resources
+C:\Users\adala\Downloads\New folder (3)\Good Store Project\All design except itemform and new home with logo\Good Store Project V2\Good Store Project\Good Store Project\Good Store Project\obj\Debug\Good_Store_Project.CustomerInformation.resources
+C:\Users\adala\Downloads\New folder (3)\Good Store Project\All design except itemform and new home with logo\Good Store Project V2\Good Store Project\Good Store Project\Good Store Project\obj\Debug\Good_Store_Project.Home.resources
+C:\Users\adala\Downloads\New folder (3)\Good Store Project\All design except itemform and new home with logo\Good Store Project V2\Good Store Project\Good Store Project\Good Store Project\obj\Debug\Good_Store_Project.ItemDatabase.resources
+C:\Users\adala\Downloads\New folder (3)\Good Store Project\All design except itemform and new home with logo\Good Store Project V2\Good Store Project\Good Store Project\Good Store Project\obj\Debug\Good_Store_Project.ItemForm.resources
+C:\Users\adala\Downloads\New folder (3)\Good Store Project\All design except itemform and new home with logo\Good Store Project V2\Good Store Project\Good Store Project\Good Store Project\obj\Debug\Good_Store_Project.Login.resources
+C:\Users\adala\Downloads\New folder (3)\Good Store Project\All design except itemform and new home with logo\Good Store Project V2\Good Store Project\Good Store Project\Good Store Project\obj\Debug\Good_Store_Project.Properties.Resources.resources
+C:\Users\adala\Downloads\New folder (3)\Good Store Project\All design except itemform and new home with logo\Good Store Project V2\Good Store Project\Good Store Project\Good Store Project\obj\Debug\Good_Store_Project.User.resources
+C:\Users\adala\Downloads\New folder (3)\Good Store Project\All design except itemform and new home with logo\Good Store Project V2\Good Store Project\Good Store Project\Good Store Project\obj\Debug\Good_Store_Project.UserDataBase.resources
+C:\Users\adala\Downloads\New folder (3)\Good Store Project\All design except itemform and new home with logo\Good Store Project V2\Good Store Project\Good Store Project\Good Store Project\obj\Debug\Good Store Project.csproj.GenerateResource.cache
+C:\Users\adala\Downloads\New folder (3)\Good Store Project\All design except itemform and new home with logo\Good Store Project V2\Good Store Project\Good Store Project\Good Store Project\obj\Debug\Good Store Project.csproj.CoreCompileInputs.cache
+C:\Users\adala\Downloads\New folder (3)\Good Store Project\All design except itemform and new home with logo\Good Store Project V2\Good Store Project\Good Store Project\Good Store Project\obj\Debug\Good Store Project.exe
+C:\Users\adala\Downloads\New folder (3)\Good Store Project\All design except itemform and new home with logo\Good Store Project V2\Good Store Project\Good Store Project\Good Store Project\obj\Debug\Good Store Project.pdb
+C:\Users\adala\Downloads\New folder (3)\Good Store Project\All Done except the new home\Good Store Project V2\Good Store Project\Good Store Project\Good Store Project\bin\Debug\Good Store Project.exe.config
+C:\Users\adala\Downloads\New folder (3)\Good Store Project\All Done except the new home\Good Store Project V2\Good Store Project\Good Store Project\Good Store Project\bin\Debug\Good Store Project.exe
+C:\Users\adala\Downloads\New folder (3)\Good Store Project\All Done except the new home\Good Store Project V2\Good Store Project\Good Store Project\Good Store Project\bin\Debug\Good Store Project.pdb
+C:\Users\adala\Downloads\New folder (3)\Good Store Project\All Done except the new home\Good Store Project V2\Good Store Project\Good Store Project\Good Store Project\obj\Debug\Good Store Project.csprojAssemblyReference.cache
+C:\Users\adala\Downloads\New folder (3)\Good Store Project\All Done except the new home\Good Store Project V2\Good Store Project\Good Store Project\Good Store Project\obj\Debug\Good_Store_Project.CustomerDatagridview.resources
+C:\Users\adala\Downloads\New folder (3)\Good Store Project\All Done except the new home\Good Store Project V2\Good Store Project\Good Store Project\Good Store Project\obj\Debug\Good_Store_Project.CustomerInformation.resources
+C:\Users\adala\Downloads\New folder (3)\Good Store Project\All Done except the new home\Good Store Project V2\Good Store Project\Good Store Project\Good Store Project\obj\Debug\Good_Store_Project.Home.resources
+C:\Users\adala\Downloads\New folder (3)\Good Store Project\All Done except the new home\Good Store Project V2\Good Store Project\Good Store Project\Good Store Project\obj\Debug\Good_Store_Project.ItemDatabase.resources
+C:\Users\adala\Downloads\New folder (3)\Good Store Project\All Done except the new home\Good Store Project V2\Good Store Project\Good Store Project\Good Store Project\obj\Debug\Good_Store_Project.ItemForm.resources
+C:\Users\adala\Downloads\New folder (3)\Good Store Project\All Done except the new home\Good Store Project V2\Good Store Project\Good Store Project\Good Store Project\obj\Debug\Good_Store_Project.Login.resources
+C:\Users\adala\Downloads\New folder (3)\Good Store Project\All Done except the new home\Good Store Project V2\Good Store Project\Good Store Project\Good Store Project\obj\Debug\Good_Store_Project.Properties.Resources.resources
+C:\Users\adala\Downloads\New folder (3)\Good Store Project\All Done except the new home\Good Store Project V2\Good Store Project\Good Store Project\Good Store Project\obj\Debug\Good_Store_Project.User.resources
+C:\Users\adala\Downloads\New folder (3)\Good Store Project\All Done except the new home\Good Store Project V2\Good Store Project\Good Store Project\Good Store Project\obj\Debug\Good_Store_Project.UserDataBase.resources
+C:\Users\adala\Downloads\New folder (3)\Good Store Project\All Done except the new home\Good Store Project V2\Good Store Project\Good Store Project\Good Store Project\obj\Debug\Good Store Project.csproj.GenerateResource.cache
+C:\Users\adala\Downloads\New folder (3)\Good Store Project\All Done except the new home\Good Store Project V2\Good Store Project\Good Store Project\Good Store Project\obj\Debug\Good Store Project.csproj.CoreCompileInputs.cache
+C:\Users\adala\Downloads\New folder (3)\Good Store Project\All Done except the new home\Good Store Project V2\Good Store Project\Good Store Project\Good Store Project\obj\Debug\Good Store Project.exe
+C:\Users\adala\Downloads\New folder (3)\Good Store Project\All Done except the new home\Good Store Project V2\Good Store Project\Good Store Project\Good Store Project\obj\Debug\Good Store Project.pdb
+C:\Users\adala\Downloads\New folder (3)\Good Store Project\All Done except the new home\Good Store Project V2\Good Store Project\Good Store Project\Good Store Project\obj\Debug\Good_Store_Project.PreLogin.resources
+C:\Users\adala\Downloads\New folder (3)\Good Store Project\Home Underway\Good Store Project V2\Good Store Project\Good Store Project\Good Store Project\bin\Debug\Good Store Project.exe.config
+C:\Users\adala\Downloads\New folder (3)\Good Store Project\Home Underway\Good Store Project V2\Good Store Project\Good Store Project\Good Store Project\bin\Debug\Good Store Project.exe
+C:\Users\adala\Downloads\New folder (3)\Good Store Project\Home Underway\Good Store Project V2\Good Store Project\Good Store Project\Good Store Project\bin\Debug\Good Store Project.pdb
+C:\Users\adala\Downloads\New folder (3)\Good Store Project\Home Underway\Good Store Project V2\Good Store Project\Good Store Project\Good Store Project\obj\Debug\Good Store Project.csprojAssemblyReference.cache
+C:\Users\adala\Downloads\New folder (3)\Good Store Project\Home Underway\Good Store Project V2\Good Store Project\Good Store Project\Good Store Project\obj\Debug\Good_Store_Project.CustomerDatagridview.resources
+C:\Users\adala\Downloads\New folder (3)\Good Store Project\Home Underway\Good Store Project V2\Good Store Project\Good Store Project\Good Store Project\obj\Debug\Good_Store_Project.CustomerInformation.resources
+C:\Users\adala\Downloads\New folder (3)\Good Store Project\Home Underway\Good Store Project V2\Good Store Project\Good Store Project\Good Store Project\obj\Debug\Good_Store_Project.Home.resources
+C:\Users\adala\Downloads\New folder (3)\Good Store Project\Home Underway\Good Store Project V2\Good Store Project\Good Store Project\Good Store Project\obj\Debug\Good_Store_Project.ItemDatabase.resources
+C:\Users\adala\Downloads\New folder (3)\Good Store Project\Home Underway\Good Store Project V2\Good Store Project\Good Store Project\Good Store Project\obj\Debug\Good_Store_Project.ItemForm.resources
+C:\Users\adala\Downloads\New folder (3)\Good Store Project\Home Underway\Good Store Project V2\Good Store Project\Good Store Project\Good Store Project\obj\Debug\Good_Store_Project.Login.resources
+C:\Users\adala\Downloads\New folder (3)\Good Store Project\Home Underway\Good Store Project V2\Good Store Project\Good Store Project\Good Store Project\obj\Debug\Good_Store_Project.PreLogin.resources
+C:\Users\adala\Downloads\New folder (3)\Good Store Project\Home Underway\Good Store Project V2\Good Store Project\Good Store Project\Good Store Project\obj\Debug\Good_Store_Project.Properties.Resources.resources
+C:\Users\adala\Downloads\New folder (3)\Good Store Project\Home Underway\Good Store Project V2\Good Store Project\Good Store Project\Good Store Project\obj\Debug\Good_Store_Project.User.resources
+C:\Users\adala\Downloads\New folder (3)\Good Store Project\Home Underway\Good Store Project V2\Good Store Project\Good Store Project\Good Store Project\obj\Debug\Good_Store_Project.UserDataBase.resources
+C:\Users\adala\Downloads\New folder (3)\Good Store Project\Home Underway\Good Store Project V2\Good Store Project\Good Store Project\Good Store Project\obj\Debug\Good Store Project.csproj.GenerateResource.cache
+C:\Users\adala\Downloads\New folder (3)\Good Store Project\Home Underway\Good Store Project V2\Good Store Project\Good Store Project\Good Store Project\obj\Debug\Good Store Project.csproj.CoreCompileInputs.cache
+C:\Users\adala\Downloads\New folder (3)\Good Store Project\Home Underway\Good Store Project V2\Good Store Project\Good Store Project\Good Store Project\obj\Debug\Good Store Project.exe
+C:\Users\adala\Downloads\New folder (3)\Good Store Project\Home Underway\Good Store Project V2\Good Store Project\Good Store Project\Good Store Project\obj\Debug\Good Store Project.pdb
+K:\Good Store Project\Home Underway\Good Store Project V2\Good Store Project\Good Store Project\Good Store Project\bin\Debug\Good Store Project.exe.config
+K:\Good Store Project\Home Underway\Good Store Project V2\Good Store Project\Good Store Project\Good Store Project\bin\Debug\Good Store Project.exe
+K:\Good Store Project\Home Underway\Good Store Project V2\Good Store Project\Good Store Project\Good Store Project\bin\Debug\Good Store Project.pdb
+K:\Good Store Project\Home Underway\Good Store Project V2\Good Store Project\Good Store Project\Good Store Project\obj\Debug\Good Store Project.csprojAssemblyReference.cache
+K:\Good Store Project\Home Underway\Good Store Project V2\Good Store Project\Good Store Project\Good Store Project\obj\Debug\Good_Store_Project.CustomerDatagridview.resources
+K:\Good Store Project\Home Underway\Good Store Project V2\Good Store Project\Good Store Project\Good Store Project\obj\Debug\Good_Store_Project.CustomerInformation.resources
+K:\Good Store Project\Home Underway\Good Store Project V2\Good Store Project\Good Store Project\Good Store Project\obj\Debug\Good_Store_Project.Home.resources
+K:\Good Store Project\Home Underway\Good Store Project V2\Good Store Project\Good Store Project\Good Store Project\obj\Debug\Good_Store_Project.ItemDatabase.resources
+K:\Good Store Project\Home Underway\Good Store Project V2\Good Store Project\Good Store Project\Good Store Project\obj\Debug\Good_Store_Project.ItemForm.resources
+K:\Good Store Project\Home Underway\Good Store Project V2\Good Store Project\Good Store Project\Good Store Project\obj\Debug\Good_Store_Project.Login.resources
+K:\Good Store Project\Home Underway\Good Store Project V2\Good Store Project\Good Store Project\Good Store Project\obj\Debug\Good_Store_Project.PreLogin.resources
+K:\Good Store Project\Home Underway\Good Store Project V2\Good Store Project\Good Store Project\Good Store Project\obj\Debug\Good_Store_Project.Properties.Resources.resources
+K:\Good Store Project\Home Underway\Good Store Project V2\Good Store Project\Good Store Project\Good Store Project\obj\Debug\Good_Store_Project.User.resources
+K:\Good Store Project\Home Underway\Good Store Project V2\Good Store Project\Good Store Project\Good Store Project\obj\Debug\Good_Store_Project.UserDataBase.resources
+K:\Good Store Project\Home Underway\Good Store Project V2\Good Store Project\Good Store Project\Good Store Project\obj\Debug\Good Store Project.csproj.GenerateResource.cache
+K:\Good Store Project\Home Underway\Good Store Project V2\Good Store Project\Good Store Project\Good Store Project\obj\Debug\Good Store Project.csproj.CoreCompileInputs.cache
+K:\Good Store Project\Home Underway\Good Store Project V2\Good Store Project\Good Store Project\Good Store Project\obj\Debug\Good Store Project.exe
+K:\Good Store Project\Home Underway\Good Store Project V2\Good Store Project\Good Store Project\Good Store Project\obj\Debug\Good Store Project.pdb
+K:\Good Store Project\Home Underway\Good Store Project V2\Good Store Project\Good Store Project\Good Store Project\obj\Debug\Good_Store_Project.Checkout.resources
+K:\Good Store Project\Home last part only\Good Store Project V2\Good Store Project\Good Store Project\Good Store Project\bin\Debug\Good Store Project.exe.config
+K:\Good Store Project\Home last part only\Good Store Project V2\Good Store Project\Good Store Project\Good Store Project\bin\Debug\Good Store Project.exe
+K:\Good Store Project\Home last part only\Good Store Project V2\Good Store Project\Good Store Project\Good Store Project\bin\Debug\Good Store Project.pdb
+K:\Good Store Project\Home last part only\Good Store Project V2\Good Store Project\Good Store Project\Good Store Project\obj\Debug\Good Store Project.csprojAssemblyReference.cache
+K:\Good Store Project\Home last part only\Good Store Project V2\Good Store Project\Good Store Project\Good Store Project\obj\Debug\Good_Store_Project.Checkout.resources
+K:\Good Store Project\Home last part only\Good Store Project V2\Good Store Project\Good Store Project\Good Store Project\obj\Debug\Good_Store_Project.CustomerDatagridview.resources
+K:\Good Store Project\Home last part only\Good Store Project V2\Good Store Project\Good Store Project\Good Store Project\obj\Debug\Good_Store_Project.CustomerInformation.resources
+K:\Good Store Project\Home last part only\Good Store Project V2\Good Store Project\Good Store Project\Good Store Project\obj\Debug\Good_Store_Project.Home.resources
+K:\Good Store Project\Home last part only\Good Store Project V2\Good Store Project\Good Store Project\Good Store Project\obj\Debug\Good_Store_Project.ItemDatabase.resources
+K:\Good Store Project\Home last part only\Good Store Project V2\Good Store Project\Good Store Project\Good Store Project\obj\Debug\Good_Store_Project.ItemForm.resources
+K:\Good Store Project\Home last part only\Good Store Project V2\Good Store Project\Good Store Project\Good Store Project\obj\Debug\Good_Store_Project.Login.resources
+K:\Good Store Project\Home last part only\Good Store Project V2\Good Store Project\Good Store Project\Good Store Project\obj\Debug\Good_Store_Project.PreLogin.resources
+K:\Good Store Project\Home last part only\Good Store Project V2\Good Store Project\Good Store Project\Good Store Project\obj\Debug\Good_Store_Project.Properties.Resources.resources
+K:\Good Store Project\Home last part only\Good Store Project V2\Good Store Project\Good Store Project\Good Store Project\obj\Debug\Good_Store_Project.User.resources
+K:\Good Store Project\Home last part only\Good Store Project V2\Good Store Project\Good Store Project\Good Store Project\obj\Debug\Good_Store_Project.UserDataBase.resources
+K:\Good Store Project\Home last part only\Good Store Project V2\Good Store Project\Good Store Project\Good Store Project\obj\Debug\Good Store Project.csproj.GenerateResource.cache
+K:\Good Store Project\Home last part only\Good Store Project V2\Good Store Project\Good Store Project\Good Store Project\obj\Debug\Good Store Project.csproj.CoreCompileInputs.cache
+K:\Good Store Project\Home last part only\Good Store Project V2\Good Store Project\Good Store Project\Good Store Project\obj\Debug\Good Store Project.exe
+K:\Good Store Project\Home last part only\Good Store Project V2\Good Store Project\Good Store Project\Good Store Project\obj\Debug\Good Store Project.pdb
+K:\Good Store Project\Login Part Only\Good Store Project V2\Good Store Project\Good Store Project\Good Store Project\bin\Debug\Good Store Project.exe.config
+K:\Good Store Project\Login Part Only\Good Store Project V2\Good Store Project\Good Store Project\Good Store Project\bin\Debug\Good Store Project.exe
+K:\Good Store Project\Login Part Only\Good Store Project V2\Good Store Project\Good Store Project\Good Store Project\bin\Debug\Good Store Project.pdb
+K:\Good Store Project\Login Part Only\Good Store Project V2\Good Store Project\Good Store Project\Good Store Project\obj\Debug\Good Store Project.csprojAssemblyReference.cache
+K:\Good Store Project\Login Part Only\Good Store Project V2\Good Store Project\Good Store Project\Good Store Project\obj\Debug\Good_Store_Project.Checkout.resources
+K:\Good Store Project\Login Part Only\Good Store Project V2\Good Store Project\Good Store Project\Good Store Project\obj\Debug\Good_Store_Project.CustomerDatagridview.resources
+K:\Good Store Project\Login Part Only\Good Store Project V2\Good Store Project\Good Store Project\Good Store Project\obj\Debug\Good_Store_Project.CustomerInformation.resources
+K:\Good Store Project\Login Part Only\Good Store Project V2\Good Store Project\Good Store Project\Good Store Project\obj\Debug\Good_Store_Project.Home.resources
+K:\Good Store Project\Login Part Only\Good Store Project V2\Good Store Project\Good Store Project\Good Store Project\obj\Debug\Good_Store_Project.ItemDatabase.resources
+K:\Good Store Project\Login Part Only\Good Store Project V2\Good Store Project\Good Store Project\Good Store Project\obj\Debug\Good_Store_Project.ItemForm.resources
+K:\Good Store Project\Login Part Only\Good Store Project V2\Good Store Project\Good Store Project\Good Store Project\obj\Debug\Good_Store_Project.Login.resources
+K:\Good Store Project\Login Part Only\Good Store Project V2\Good Store Project\Good Store Project\Good Store Project\obj\Debug\Good_Store_Project.PreLogin.resources
+K:\Good Store Project\Login Part Only\Good Store Project V2\Good Store Project\Good Store Project\Good Store Project\obj\Debug\Good_Store_Project.Properties.Resources.resources
+K:\Good Store Project\Login Part Only\Good Store Project V2\Good Store Project\Good Store Project\Good Store Project\obj\Debug\Good_Store_Project.User.resources
+K:\Good Store Project\Login Part Only\Good Store Project V2\Good Store Project\Good Store Project\Good Store Project\obj\Debug\Good_Store_Project.UserDataBase.resources
+K:\Good Store Project\Login Part Only\Good Store Project V2\Good Store Project\Good Store Project\Good Store Project\obj\Debug\Good Store Project.csproj.GenerateResource.cache
+K:\Good Store Project\Login Part Only\Good Store Project V2\Good Store Project\Good Store Project\Good Store Project\obj\Debug\Good Store Project.csproj.CoreCompileInputs.cache
+K:\Good Store Project\Login Part Only\Good Store Project V2\Good Store Project\Good Store Project\Good Store Project\obj\Debug\Good Store Project.exe
+K:\Good Store Project\Login Part Only\Good Store Project V2\Good Store Project\Good Store Project\Good Store Project\obj\Debug\Good Store Project.pdb
+K:\Good Store Project\Only OOP COncept\Good Store Project V2\Good Store Project\Good Store Project\Good Store Project\obj\Debug\Good Store Project.csprojAssemblyReference.cache
+K:\Good Store Project\Only OOP COncept\Good Store Project V2\Good Store Project\Good Store Project\Good Store Project\obj\Debug\Good_Store_Project.Checkout.resources
+K:\Good Store Project\Only OOP COncept\Good Store Project V2\Good Store Project\Good Store Project\Good Store Project\obj\Debug\Good_Store_Project.CustomerDatagridview.resources
+K:\Good Store Project\Only OOP COncept\Good Store Project V2\Good Store Project\Good Store Project\Good Store Project\obj\Debug\Good_Store_Project.CustomerInformation.resources
+K:\Good Store Project\Only OOP COncept\Good Store Project V2\Good Store Project\Good Store Project\Good Store Project\obj\Debug\Good_Store_Project.Home.resources
+K:\Good Store Project\Only OOP COncept\Good Store Project V2\Good Store Project\Good Store Project\Good Store Project\obj\Debug\Good_Store_Project.ItemDatabase.resources
+K:\Good Store Project\Only OOP COncept\Good Store Project V2\Good Store Project\Good Store Project\Good Store Project\obj\Debug\Good_Store_Project.ItemForm.resources
+K:\Good Store Project\Only OOP COncept\Good Store Project V2\Good Store Project\Good Store Project\Good Store Project\obj\Debug\Good_Store_Project.Login.resources
+K:\Good Store Project\Only OOP COncept\Good Store Project V2\Good Store Project\Good Store Project\Good Store Project\obj\Debug\Good_Store_Project.PreLogin.resources
+K:\Good Store Project\Only OOP COncept\Good Store Project V2\Good Store Project\Good Store Project\Good Store Project\obj\Debug\Good_Store_Project.Properties.Resources.resources
+K:\Good Store Project\Only OOP COncept\Good Store Project V2\Good Store Project\Good Store Project\Good Store Project\obj\Debug\Good_Store_Project.User.resources
+K:\Good Store Project\Only OOP COncept\Good Store Project V2\Good Store Project\Good Store Project\Good Store Project\obj\Debug\Good_Store_Project.UserDataBase.resources
+K:\Good Store Project\Only OOP COncept\Good Store Project V2\Good Store Project\Good Store Project\Good Store Project\obj\Debug\Good Store Project.csproj.GenerateResource.cache
+K:\Good Store Project\Only OOP COncept\Good Store Project V2\Good Store Project\Good Store Project\Good Store Project\obj\Debug\Good Store Project.csproj.CoreCompileInputs.cache
+K:\Good Store Project\Only OOP COncept\Good Store Project V2\Good Store Project\Good Store Project\Good Store Project\obj\Debug\Good Store Project.exe
+K:\Good Store Project\Only OOP COncept\Good Store Project V2\Good Store Project\Good Store Project\Good Store Project\obj\Debug\Good Store Project.pdb
+K:\Good Store Project\Only OOP COncept\Good Store Project V2\Good Store Project\Good Store Project\Good Store Project\bin\Debug\Good Store Project.exe.config
+K:\Good Store Project\Only OOP COncept\Good Store Project V2\Good Store Project\Good Store Project\Good Store Project\bin\Debug\Good Store Project.exe
+K:\Good Store Project\Only OOP COncept\Good Store Project V2\Good Store Project\Good Store Project\Good Store Project\bin\Debug\Good Store Project.pdb
+K:\Good Store Project\Good Store Project V2\Good Store Project\Good Store Project\Good Store Project\bin\Debug\Good Store Project.exe.config
+K:\Good Store Project\Good Store Project V2\Good Store Project\Good Store Project\Good Store Project\bin\Debug\Good Store Project.exe
+K:\Good Store Project\Good Store Project V2\Good Store Project\Good Store Project\Good Store Project\bin\Debug\Good Store Project.pdb
+K:\Good Store Project\Good Store Project V2\Good Store Project\Good Store Project\Good Store Project\obj\Debug\Good Store Project.csprojAssemblyReference.cache
+K:\Good Store Project\Good Store Project V2\Good Store Project\Good Store Project\Good Store Project\obj\Debug\Good_Store_Project.Checkout.resources
+K:\Good Store Project\Good Store Project V2\Good Store Project\Good Store Project\Good Store Project\obj\Debug\Good_Store_Project.CustomerDatagridview.resources
+K:\Good Store Project\Good Store Project V2\Good Store Project\Good Store Project\Good Store Project\obj\Debug\Good_Store_Project.CustomerInformation.resources
+K:\Good Store Project\Good Store Project V2\Good Store Project\Good Store Project\Good Store Project\obj\Debug\Good_Store_Project.Home.resources
+K:\Good Store Project\Good Store Project V2\Good Store Project\Good Store Project\Good Store Project\obj\Debug\Good_Store_Project.ItemDatabase.resources
+K:\Good Store Project\Good Store Project V2\Good Store Project\Good Store Project\Good Store Project\obj\Debug\Good_Store_Project.ItemForm.resources
+K:\Good Store Project\Good Store Project V2\Good Store Project\Good Store Project\Good Store Project\obj\Debug\Good_Store_Project.Login.resources
+K:\Good Store Project\Good Store Project V2\Good Store Project\Good Store Project\Good Store Project\obj\Debug\Good_Store_Project.PreLogin.resources
+K:\Good Store Project\Good Store Project V2\Good Store Project\Good Store Project\Good Store Project\obj\Debug\Good_Store_Project.Properties.Resources.resources
+K:\Good Store Project\Good Store Project V2\Good Store Project\Good Store Project\Good Store Project\obj\Debug\Good_Store_Project.User.resources
+K:\Good Store Project\Good Store Project V2\Good Store Project\Good Store Project\Good Store Project\obj\Debug\Good_Store_Project.UserDataBase.resources
+K:\Good Store Project\Good Store Project V2\Good Store Project\Good Store Project\Good Store Project\obj\Debug\Good Store Project.csproj.GenerateResource.cache
+K:\Good Store Project\Good Store Project V2\Good Store Project\Good Store Project\Good Store Project\obj\Debug\Good Store Project.csproj.CoreCompileInputs.cache
+K:\Good Store Project\Good Store Project V2\Good Store Project\Good Store Project\Good Store Project\obj\Debug\Good Store Project.exe
+K:\Good Store Project\Good Store Project V2\Good Store Project\Good Store Project\Good Store Project\obj\Debug\Good Store Project.pdb
